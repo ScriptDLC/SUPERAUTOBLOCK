@@ -2268,7 +2268,7 @@ if Library then
 
     Window = Library:CreateWindow({
         Title = "Auto Block",
-        Footer = "ples sub to forsaken.scripts",
+        Footer = "t.me/ScriptDLC",
         Icon = 0,
         NotifySide = "Right",
         ShowCustomCursor = true,
@@ -2316,13 +2316,13 @@ if Library then
 
     NoticeLeftGroup:AddLabel("thanks for using my wonderful auto block script")
     NoticeLeftGroup:AddLabel("some features may only work with guest skins thats using the default anims")
-    NoticeLeftGroup:AddLabel(".gg/Tmby2GkKJR")
+    NoticeLeftGroup:AddLabel(".gg/4bBDmdXpfb")
 
-    NoticeRightGroup:AddLabel("1. made ab anim work")
-    NoticeRightGroup:AddLabel("with sixer.")
-    NoticeRightGroup:AddLabel("2. changed ui to")
+    NoticeRightGroup:AddLabel("1. FUCK NIGGERS")
+    NoticeRightGroup:AddLabel("YES")
+    NoticeRightGroup:AddLabel("2. ROBLOX DIED IN RUSSIAN")
     NoticeRightGroup:AddLabel("obsidian")
-    NoticeRightGroup:AddLabel("3. audio ab now works with ck.")
+    NoticeRightGroup:AddLabel("3. audio works")
 
     NoticeRightGroup:AddLabel("UPDATE PLANS")
     NoticeRightGroup:AddLabel("1. optimize lag")
